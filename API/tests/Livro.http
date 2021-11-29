@@ -1,0 +1,15 @@
+###
+POST https://localhost:5001/api/livro/create
+Content-Type: application/json
+
+{
+
+    "nome" : "Nome teste",
+    "autor" : "Marcos",
+   
+}
+
+###
+GET https://localhost:5001/api/livro/list
+Content-Type: application/json
+

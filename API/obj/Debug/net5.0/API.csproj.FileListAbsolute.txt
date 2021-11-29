@@ -1,0 +1,68 @@
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\appsettings.json
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\API.exe
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\API.deps.json
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\API.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\API.pdb
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.pdb
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PICHAU\Desktop\DSV proj\Projeto\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\appsettings.json
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\API.StaticWebAssets.xml
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\API.exe
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\API.deps.json
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\API.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\API.pdb
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.pdb
+C:\Users\Amanda\Downloads\Projeto\Projeto\API\obj\Debug\net5.0\API.genruntimeconfig.cache
